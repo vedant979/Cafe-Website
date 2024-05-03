@@ -14,7 +14,7 @@ export const BlogCard = (props) => {
                         
                         <div className="card1">
                             <div className='left-box'>
-                                <img src={props.img} style={{height:"100%", width:"100%", objectFit:"cover"}}></img>
+                                <img src={props.img} key={props.key} style={{height:"100%", width:"100%", objectFit:"cover"}}></img>
                             </div>
                             <div className='right-box'>
                                 <p>{props.para}</p>
