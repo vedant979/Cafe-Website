@@ -8,12 +8,12 @@ import 'swiper/css/pagination';
 
 import './Caromenu2.css';
 
-import img1 from "../../assets/images/combo1.jpeg";
-import img5 from "../../assets/images/combo1.jpeg";
-import img3 from "../../assets/images/combo1.jpeg";
-import img4 from "../../assets/images/combo1.jpeg";
-import img2 from "../../assets/images/combo1.jpeg";
-import img6 from "../../assets/images/combo1.jpeg";
+import img1 from "../../assets/Sunset/combo1.jpeg";
+import img5 from "../../assets/Sunset/combo1.jpeg";
+import img3 from "../../assets/Sunset/combo1.jpeg";
+import img4 from "../../assets/Sunset/combo1.jpeg";
+import img2 from "../../assets/Sunset/combo1.jpeg";
+import img6 from "../../assets/Sunset/combo1.jpeg";
 
 export default function Caromenu2() {
   return (

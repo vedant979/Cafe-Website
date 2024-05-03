@@ -2,7 +2,7 @@
     {
     "count":10,
     "page":"/Menu/menu1",
-    "img":"/src/assets/MenuImg/Burger&Sandwich.jpeg",
+    "img":"/src/assets/Sunset/Burger&Sandwich.jpeg",
     "key1":
     [
         {
@@ -96,7 +96,7 @@
     {
         "count":11,
         "page":"/Menu/menu2",
-        "img":"/src/assets/MenuImg/Chinese.jpeg",
+        "img":"/src/assets/Sunset/Chinese.jpeg",
         "key1":
         [
             {
@@ -187,7 +187,7 @@
     ,
     {
         "page":"/Menu/menu3",
-        "img":"/src/assets/MenuImg/Starters.jpeg",
+        "img":"/src/assets/Sunset/Starters.jpeg",
         "key1":
         [
             {
@@ -270,7 +270,7 @@
     ,
     {
         "page":"/Menu/menu4",
-        "img":"/src/assets/MenuImg/sides.jpeg",
+        "img":"/src/assets/Sunset/sides.jpeg",
         "key1":
         [
             {
@@ -353,7 +353,7 @@
     ,
     {
         "page":"/Menu/menu5",
-        "img":"/src/assets/MenuImg/salads.jpeg",
+        "img":"/src/assets/Sunset/salads.jpeg",
         "key1":
         [
             {
@@ -437,7 +437,7 @@
     ,
     {
         "page":"/Menu/menu6",
-        "img":"/src/assets/MenuImg/deserts.jpeg",
+        "img":"/src/assets/Sunset/deserts.jpeg",
         "key1":
         [
             {
@@ -506,7 +506,7 @@
     ,
     {
         "page":"/Menu/menu7",
-        "img":"/src/assets/MenuImg/maincourse.jpeg",
+        "img":"/src/assets/Sunset/maincourse.jpeg",
         "key1":
         [
             {
@@ -585,7 +585,7 @@
     ,
     {
         "page":"/Menu/menu8",
-        "img":"/src/assets/MenuImg/valueCombo.png",
+        "img":"/src/assets/Sunset/valueCombo.png",
         "key1":
         [
             {

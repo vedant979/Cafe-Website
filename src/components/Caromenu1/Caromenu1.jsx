@@ -11,14 +11,14 @@ import "swiper/css/pagination";
 // import required modules
 import { EffectCoverflow, Pagination } from "swiper/modules";
 
-import img1 from "../../assets/MenuImg/Burger&Sandwich.jpeg";
-import img5 from "../../assets/MenuImg/Chinese.jpeg";
-import img3 from "../../assets/MenuImg/deserts.jpeg";
-import img4 from "../../assets/MenuImg/maincourse.jpeg";
-import img2 from "../../assets/MenuImg/salads.jpeg";
-import img6 from "../../assets/MenuImg/sides.jpeg";
-import img7 from "../../assets/MenuImg/Starters.jpeg";
-import img8 from "../../assets/MenuImg/valueCombo.png";
+import img1 from "../../assets/Sunset/Burger&Sandwich.jpeg";
+import img5 from "../../assets/Sunset/Chinese.jpeg";
+import img3 from "../../assets/Sunset/deserts.jpeg";
+import img4 from "../../assets/Sunset/maincourse.jpeg";
+import img2 from "../../assets/Sunset/salads.jpeg";
+import img6 from "../../assets/Sunset/sides.jpeg";
+import img7 from "../../assets/Sunset/Starters.jpeg";
+import img8 from "../../assets/Sunset/valueCombo.png";
 
 export default function Caromenu1() {
   return (

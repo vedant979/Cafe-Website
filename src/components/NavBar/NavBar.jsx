@@ -5,7 +5,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 // --------------------------------------CSS----------------------------------------------
 import "./NavBar.css";
 
-// ---------------------------------LOGOS-and-IMAGES--------------------------------------
+// ---------------------------------LOGOS-and-Sunset--------------------------------------
 import logo from "../../assets/Sunset/sunset-cafe-high-resolution-logo-transparent.png";
 import cartLogo from "../../assets/Sunset/icons8-cart-50.png";
 import MenuLogo from "../../assets/Sunset/Menu.svg";

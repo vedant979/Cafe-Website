@@ -99,7 +99,7 @@ export const MenuListCard = ({setMyCartData ,name, flag, price, width , count, h
           <>
             <div className="function2">
               <div className="item-img">
-                <img src="/src/assets/MenuImg/Burger/b1.png"></img>
+                <img src="/src/assets/Sunset/Burger/b1.png"></img>
               </div>
               <div className="addMore" style={{position:"relative", height:"20%", width:"35%", borderRadius:"10px", left:"35%", bottom:"20%"}}>
                 <div className="decrementer" onClick={handleDecrement} style={{fontSize:"4vw"}}>

@@ -13,17 +13,17 @@
     padding: 20px 0; /* Added padding for better spacing */
     overflow: hidden;
 }
-/* Custom style for circular images */
+/* Custom style for circular Sunset */
 .img-fluid.rounded-circless {
-    width: 50%; /* Ensure the images take the full width of their container */
+    width: 50%; /* Ensure the Sunset take the full width of their container */
     max-width: 250px; /* Set a maximum width for better responsiveness */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%;
     margin-bottom: 20px; /* Added margin for better spacing */
     overflow: hidden;
-    margin-left: auto; /* Center the images horizontally */
+    margin-left: auto; /* Center the Sunset horizontally */
     margin-right: auto;
-    display: block; /* Ensure images are displayed as blocks */
+    display: block; /* Ensure Sunset are displayed as blocks */
     filter: brightness(80%); /* Adjust brightness to match the design */
 }
 /* second section */
