@@ -1,0 +1,96 @@
+/* -----------------SECTION-1----------------- */
+.sub-container1{
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid white; */
+    background-color: rgba(37, 35, 35, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-container1 .sub-container1Of1{
+    width: 70%;
+    height: 80%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    /* background-image: url("../../assets/Sunset/sec-1-Blog1.jpg"); */
+    background-position: center;
+    background-size: cover;
+    mix-blend-mode: difference;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.sub-container1Of1 .left-box{
+    width: 40%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid white; */
+
+}
+.left-box h1{
+    font-size: 5vw;
+    color: rgba(250, 243, 243, 1);
+}
+.sub-container1Of1 .right-box{
+    width: 60%;
+    height: 50%;
+    /* border: 1px solid white; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    /* align-self: flex-end; */
+
+}
+.right-box .col-1-blog h1{
+    font-size: 4vw;
+    color: rgba(187, 166, 166, 1);
+}
+.right-box .col-2-blog p{
+    text-align: justify;
+    font-size: 2vw;
+    color: rgba(230, 208, 164, 1);
+}
+
+
+
+
+/* -----------------SECTION-2----------------- */
+
+
+
+
+
+
+
+
+
+
+@media (min-width:280px) and (max-width:426px){
+    /* ------------section-1----------- */
+    .sub-container1Of1{
+        width: 90% !important;
+    }
+
+    /* ------------section-2----------- */
+    .section-1{
+        height: 30% !important;
+    }
+    .wrapper-6of0{
+        height: 25%;
+    }
+    /* .wrapper-6of0 .col-1-blog .control-btns-6of0-forBlog{
+        top: 123% !important;
+    } */
+    .sub-container1{
+        height: 50%;
+    }
+}

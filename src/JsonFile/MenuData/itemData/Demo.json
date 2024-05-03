@@ -1,0 +1,633 @@
+[
+    {
+    "count":10,
+    "page":"/Menu/menu1",
+    "img":"/src/assets/MenuImg/Burger&Sandwich.jpeg",
+    "key1":
+    [
+        {
+            "name":"BURGER",
+            "items":[
+                        {
+                            "id":"1",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"150",
+                            "veg":false 
+                        },
+                        {
+                            "id":"2",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"150",
+                            "veg":false  
+                        },
+                        {
+                            "id":"3",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"210",
+                            "veg":false 
+                        },
+                        {
+                            "id":"4",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"150",
+                            "veg":true  
+                        },
+                        {
+                            "id":"5",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"210",
+                            "veg":true  
+                        },
+                        {
+                            "id":"6",
+                            "name":"Tandoori Chicken Tikka Burger",
+                            "price":"150",
+                            "veg":true  
+                        }
+                    ]
+        }
+    ],
+    "key2":
+    [
+
+        {
+            "name":"SANDWICH",
+            "items":[
+                {
+                
+                    "name":"Bombay Masala Grilled Cheese",
+                    "price":"150",
+                    "veg":false  
+                },
+                {
+                    
+                    "name":"Tandoori Chicken Tikka Burger2",
+                    "price":"150",
+                    "veg":false  
+                },
+                {
+                    "name":"Tandoori Chicken Tikka Burger1",
+                    "price":"210",
+                    "veg":true  
+                },
+                {
+                    
+                    "name":"Tandoori Chicken Tikka Burger3",
+                    "price":"150",
+                    "veg":false  
+                },
+                {
+                    
+                    "name":"Tandoori Chicken Tikka Burger4",
+                    "price":"210",
+                    "veg":false  
+                },
+                {
+                    
+                    "name":"Tandoori Chicken Tikka Burger5",
+                    "price":"150",
+                    "veg":true, 
+                    "border":"false"  
+                }
+            ]
+        }
+    ]
+    },
+    {
+        "count":11,
+        "page":"/Menu/menu2",
+        "img":"/src/assets/MenuImg/Chinese.jpeg",
+        "key1":
+        [
+            {
+                "name":"APPETIZERS",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Tandoori Chicken Tikka Burger",
+                                "price":"150",
+                                "veg":false
+
+                            }
+                        ]
+            },
+            {
+                "name":"SOUP",
+                "items":[
+                            {
+
+                                "path":"/Menu/menu2",
+                                "id":"1",
+                                "name":"Hot and Sour Soup",
+                                "price":"139"
+                            },
+                            {
+                                "path":"/Menu/menu2",
+                                "id":"2",
+                                "name":"Wonton Noodle Soup",
+                                "price":"129"
+
+                            }
+                        ]
+            },
+            {
+                "name":"MAIN-COURSE",
+                "items":[
+                            {
+
+                                "path":"/Menu/menu2",
+                                "id":"1",
+                                "name":"Hot and Sour Soup",
+                                "price":"139"
+                            },
+                            {
+                                "path":"/Menu/menu2",
+                                "id":"2",
+                                "name":"Wonton Noodle Soup",
+                                "price":"129"
+
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"RICE AND NOODLES",
+                "items":[
+                            {
+                        
+                                "name":"Yangzhou Fried RicE",
+                                "price":"140",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Dan Dan Noodles",
+                                "price":"150",
+                                "veg":true
+                            }
+                    ]
+            },
+            {
+                "name":"Sweet Conclusions",
+                "items":[
+                            {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"140",
+                                "veg":true,
+                                "border":"false"
+                            }
+                    ]
+            }
+        ]
+    
+    }
+    ,
+    {
+        "page":"/Menu/menu3",
+        "img":"/src/assets/MenuImg/Starters.jpeg",
+        "key1":
+        [
+            {
+                "name":"STARTERS",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Crispy Vegetable Spring Rolls",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"2",
+                                "name":"Paneer Tikka Skewers",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"3",
+                                "name":"Corn and Cheese Balls",
+                                "price":"150",
+                                "veg":true
+                            },
+                            {
+                                "id":"4",
+                                "name":"Stuffed Mushrooms with Spinach and Feta",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"5",
+                                "name":"Prawn Tempura",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"6",
+                                "name":"Crispy Vegetable Spring Rolls",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"7",
+                                "name":"Spicy Chicken Wings",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"8",
+                                "name":"Fish Tikka Tacos",
+                                "price":"150",
+                                "veg":false 
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"Mouthwatering Combos",
+                "items":[
+                            {
+                        
+                                "name":"Vegetarian Platter",
+                                "price":"140",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Sunset Signature Sampler",
+                                "price":"150",
+                                "veg":true, 
+                                "border":"false"  
+                            }
+                    ]
+            }
+        ]
+    }
+    ,
+    {
+        "page":"/Menu/menu4",
+        "img":"/src/assets/MenuImg/sides.jpeg",
+        "key1":
+        [
+            {
+                "name":"SLIDES",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Garlic Parmesan Fries",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"2",
+                                "name":"Paneer Tikka Skewers",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"3",
+                                "name":"Corn and Cheese Balls",
+                                "price":"150",
+                                "veg":true
+                            },
+                            {
+                                "id":"4",
+                                "name":"Stuffed Mushrooms with Spinach and Feta",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"5",
+                                "name":"Prawn Tempura",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"6",
+                                "name":"Crispy Vegetable Spring Rolls",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"7",
+                                "name":"Spicy Chicken Wings",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"8",
+                                "name":"Fish Tikka Tacos",
+                                "price":"150",
+                                "veg":false 
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"Indulgent Add-Ons",
+                "items":[
+                            {
+                        
+                                "name":"Truffle Parmesan Fries",
+                                "price":"140",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Loaded Potato Skins",
+                                "price":"150",
+                                "veg":true, 
+                                "border":"false"  
+                            }
+                    ]
+            }
+        ]
+    }
+    ,
+    {
+        "page":"/Menu/menu5",
+        "img":"/src/assets/MenuImg/salads.jpeg",
+        "key1":
+        [
+            {
+                "name":"SALAD",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Garlic Parmesan Fries",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"2",
+                                "name":"Paneer Tikka Skewers",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"3",
+                                "name":"Corn and Cheese Balls",
+                                "price":"150",
+                                "veg":true
+                            },
+                            {
+                                "id":"4",
+                                "name":"Stuffed Mushrooms with Spinach and Feta",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"5",
+                                "name":"Prawn Tempura",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"6",
+                                "name":"Crispy Vegetable Spring Rolls",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"7",
+                                "name":"Spicy Chicken Wings",
+                                "price":"150",
+                                "veg":false 
+                            },
+                            {
+                                "id":"8",
+                                "name":"Fish Tikka Tacos",
+                                "price":"150",
+                                "veg":false 
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "height":"75",
+                "name":"Enhancements",
+                "items":[
+                            {
+                        
+                                "name":"Protein Add-Ons Description: Customize your salad with additional grilled chicken, shrimp, salmon, or tofu for an extra protein boost.",
+                                "price":"140",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Gluten-Free Options Available Description: Ask your server for gluten-free alternatives for select salads.",
+                                "price":"150",
+                                "veg":true, 
+                                "border":"false"  
+                            }
+                    ]
+            }
+        ]
+    }
+    ,
+    {
+        "page":"/Menu/menu6",
+        "img":"/src/assets/MenuImg/deserts.jpeg",
+        "key1":
+        [
+            {
+                "name":"DESSERTS",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Garlic Parmesan Fries",
+                                "price":"150"
+                            },
+                            {
+                                "id":"2",
+                                "name":"Paneer Tikka Skewers",
+                                "price":"150"
+                            },
+                            {
+                                "id":"3",
+                                "name":"Corn and Cheese Balls",
+                                "price":"150"
+                            },
+                            {
+                                "id":"4",
+                                "name":"Stuffed Mushrooms with Spinach and Feta",
+                                "price":"150"
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"DESERTS & SUNDAES",
+                "items":[
+                            {
+                        
+                                "name":"Vanilla Bean",
+                                "price":"140"
+                            },
+                            {
+                                "name":"Chocolate Fudge Brownie",
+                                "price":"150"
+                            },
+                            {
+                                "name":"Mango Sorbet",
+                                "price":"150"
+                            },
+                            {
+                                "name":"Strawberry Swirl",
+                                "price":"150"
+                            },
+                            {
+                                "name":"Banana Split",
+                                "price":"150"
+                            },
+                            {
+                                "name":"Caramel Crunch Sundae",
+                                "price":"150", 
+                                "border":"false"
+                            }
+                    ]
+            }
+        ]
+    }
+    ,
+    {
+        "page":"/Menu/menu7",
+        "img":"/src/assets/MenuImg/maincourse.jpeg",
+        "key1":
+        [
+            {
+                "name":"DESSERTS",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Garlic Parmesan Fries",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"2",
+                                "name":"Paneer Tikka Skewers",
+                                "price":"150",
+                                "veg":true 
+                            },
+                            {
+                                "id":"3",
+                                "name":"Corn and Cheese Balls",
+                                "price":"150",
+                                "veg":true
+                            },
+                            {
+                                "id":"4",
+                                "name":"Stuffed Mushrooms with Spinach and Feta",
+                                "price":"150",
+                                "veg":true 
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"DESERTS & SUNDAES",
+                "items":[
+                            {
+                        
+                                "name":"Vanilla Bean",
+                                "price":"140",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Chocolate Fudge Brownie",
+                                "price":"150",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Mango Sorbet",
+                                "price":"150",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Strawberry Swirl",
+                                "price":"150",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Banana Split",
+                                "price":"150",
+                                "veg":true  
+                            },
+                            {
+                                "name":"Caramel Crunch Sundae",
+                                "price":"150",
+                                "veg":true , 
+                                "border":"false" 
+                            }
+                    ]
+            }
+        ]
+    }
+    ,
+    {
+        "page":"/Menu/menu8",
+        "img":"/src/assets/MenuImg/valueCombo.png",
+        "key1":
+        [
+            {
+                "name":"VALUE COMBO",
+                "items":[
+                            {
+                                "id":"1",
+                                "name":"Combo 1: Sunset Sampler",
+                                "Description":"Choice of Starter: Crispy Vegetable Spring Rolls Chicken Satay Skewers Main Course: Vegetable Pad Thai Chicken Tikka Masala Side Dish: Garlic Parmesan Fries Beverage: Soft Drink or Iced Tea",
+                                "price":"150"
+                            },
+                            {
+                                "id":"2",
+                                "name":"Combo 2: Taste of Asia",
+                                "Description":"Choice of Starter: Crispy Vegetable Spring Rolls Chicken Satay Skewers Main Course: Vegetable Pad Thai Chicken Tikka Masala Side Dish: Garlic Parmesan Fries Beverage: Soft Drink or Iced Tea",
+                                "price":"150",
+                                "border":"false"
+                            }
+                        ]
+            }
+
+        ],
+        "key2":
+        [
+    
+            {
+                "name":"",
+                "items":[
+                            {
+                        
+                                "name":"Combo 3: Vegetarian Delight",
+                                "Description":"Choice of Starter: Crispy Vegetable Spring Rolls Chicken Satay Skewers Main Course: Vegetable Pad Thai Chicken Tikka Masala Side Dish: Garlic Parmesan Fries Beverage: Soft Drink or Iced Tea",
+                                "price":"140"
+                            },
+                            {
+                                "name":"Combo 4: Family Feast",
+                                "Description":"Choice of Starter: Crispy Vegetable Spring Rolls Chicken Satay Skewers Main Course: Vegetable Pad Thai Chicken Tikka Masala Side Dish: Garlic Parmesan Fries Beverage: Soft Drink or Iced Tea",
+                                "price":"150", 
+                                "border":"false"
+                            }
+                    ]
+            }
+        ]
+    }
+]

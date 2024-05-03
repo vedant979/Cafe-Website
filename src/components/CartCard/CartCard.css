@@ -1,0 +1,84 @@
+.cart-Card{
+    height: 30%;
+    /* border: 1px solid white; */
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1%;
+    background: rgba(217, 217, 217, 0.3);
+}
+.cart-Card .left-div{
+    height: 90%;
+    width: 69%;
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2%;
+}
+.cart-Card .right-div{
+    height: 90%;
+    width: 29%;
+    /* border: 1px solid white; */
+}
+.left-div .item-image{
+    width: 30%;
+    height: 90%;
+    border: 1px solid white;
+}
+.left-div .item-details{
+    width: 80%;
+    height: 90%;
+    /* border: 1px solid white; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+}
+.item-details .name{
+    font-size: 2vw;
+    color: white;
+}
+.item-details .desc{
+    font-size: 1.5vw;
+    color: white;
+}
+.right-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.right-div .count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* color: white; */
+    width: 70%;
+    background-color: white;
+    height:30%;
+}
+.value{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+ .delete, .inc{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    background-color: #ababab;
+}
+.delete img, .inc img{
+    height: 95%;
+    width: 100%;
+}
+.cost p{
+    color: white;
+    font-size: 2vw;
+}

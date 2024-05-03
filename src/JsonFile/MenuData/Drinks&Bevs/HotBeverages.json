@@ -1,0 +1,23 @@
+[
+    {
+        "id":"0",
+        "drink":"Espresso",
+        "description":"A single shot of concentrated coffee",
+        "price":"Rs.120",
+        "img":""    
+    },
+    {
+        "id":"1",
+        "drink":"Cappuccino",
+        "description":"Equal parts espresso steamed milk, and foam",
+        "price":"Rs.120",
+        "img":"" 
+    },
+    {
+        "id":"2",
+        "drink":"Americano",
+        "description":"Espresso shots with hot water",
+        "price":"Rs.120",
+        "img":""  
+    }
+]

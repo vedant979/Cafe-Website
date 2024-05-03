@@ -1,0 +1,46 @@
+
+[
+      {
+        "id":0,
+        "image": "/src/assets/Sunset/panna.jpg",
+        "heading":"Mango Curry Chicken",
+        "para":"Indulge in the rich flavors of our Seasonal Spice Delight - Mango Curry Chicken. A symphony of succulent chicken pieces bathed in a luscious curry infused with the sweetness of ripe mangoes."
+      },
+      {
+        "id":1,
+        "image": "/src/assets/Sunset/platter.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      },
+      {
+        "id":2,
+        "image": "/src/assets/Sunset/chicken.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      },
+      {
+        "id":3,
+        "image": "/src/assets/Sunset/platter.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      },
+      {
+        "id":4,
+        "image": "/src/assets/Sunset/platter.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      },
+      {
+        "id":5,
+        "image": "/src/assets/Sunset/platter.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      },
+      {
+        "id":6,
+        "image": "/src/assets/Sunset/platter.jpg",
+        "heading":"Chai Infusion Dessert: Cardamom Chai Panna Cotta",
+        "para":"Experience the sweet finale of your meal with our Chai Infusion Dessert - Cardamom Chai Panna Cotta. This delectable     creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian Chai"
+      }
+]
+

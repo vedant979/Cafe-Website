@@ -1,0 +1,105 @@
+[
+    {
+        "blog":"1",
+        "heading":"#1 Exclusive",
+        "para1":"Unlock a World of Culinary Luxury and Tranquil Moments &  Much More",
+        "heading2":"Newly Added",
+        "item1Img":"/src/assets/Sunset/sala.jpg",
+        "item1head":"Mango Tango Fusion Salad:",
+        "item1Data":"Dive into a refreshing symphony of flavors with our Mango Tango Fusion Salad. Crisp mixed greens, juicy mango slices, and cherry tomatoes are tossed with a zesty mango-lime dressing, creating a burst of tropical goodness on your palate. Topped with grilled chicken for a protein boost and garnished with crunchy almond slivers",
+
+        "item2Img":"/src/assets/Sunset/infusion.jpg",
+        "item2head":"Spiced Infusion Sea Bass:",
+        "item2Data":"Immerse yourself in the bold and aromatic notes of our Spiced Infusion Sea Bass. Fresh fillets of sea bass are delicately seasoned with a blend of Indian spices, including cumin, coriander, and turmeric, then seared to perfection. Served on a bed of saffron-infused basmati rice and accompanied by a side of mint-cilantro chutney, this dish is a celebration of coastal flavors with a touch of Indian flair."
+        
+
+    },
+    {
+        "blog":"2",
+        "heading":"#2 Café Sunset Chronicles: A Journey Through Flavors and Moments",
+        "para1":"Welcome to the vibrant tapestry of Café Sunset, where every cup tells a story, and every moment is a cherished chapter in our culinary odyssey. Join us as we embark on a captivating journey, unveiling the essence of Café Sunset through its diverse flavors and unforgettable moments",
+        "item1Img":"/src/assets/Sunset/morning.jpg",
+        "item1head":"Morning Prelude: Awakening the Senses.",
+        "item1Data":"As dawn breaks, Café Sunset comes alive with the Morning Prelude – a symphony of aromas and flavors that greet you with warmth and vitality. The Sunrise Espresso takes center stage, a robust elixir that awakens your senses, setting the stage for a day filled with culinary delights. Paired with a selection of freshly baked pastries, the morning at Café Sunset is a sweet beginning to your journey.",
+
+        "item2Img":"/src/assets/Sunset/salads.jpg",
+        "item2head":"Culinary Odyssey: Seasons on a Plate",
+        "item2Data":"The heart of Café Sunset lies in its culinary offerings, a true odyssey through the seasons. Our chefs curate a culinary symphony with seasonal specialties that capture the essence of each moment. From light and refreshing summer salads to hearty and comforting winter stews, each dish is a celebration of local flavors and innovation. Be sure to explore our daily specials."
+        
+        
+    },    
+    {
+        "blog":"3",
+        "heading":"#3 Sunset Sessions: Live Music, Lively Conversations at Café Sunset",
+        "para1":"Step into the magical realm of Café Sunset, where the Sunset Sessions unfold – an enchanting fusion of live music and lively conversations that elevates your dining experience to new heights. In this blog, we invite you to explore the rhythmic heartbeat of our café, where melodies mingle with flavors, creating an ambiance that resonates long after the last note fades away.",
+        
+        "item1Img":"/src/assets/Sunset/sing.jpeg",
+        "item1head":"Harmony in the Air: Live Music Serenades.",
+        "item1Data":"Dive into a refreshing symphony of flavors with our Mango Tango Fusion Salad. Crisp mixed greens, juicy mango slices, and cherry tomatoes are tossed with a zesty mango-lime dressing, creating a burst of tropical goodness on your palate. Topped with grilled chicken for a protein boost and garnished with crunchy almond slivers",
+
+        "item2Img":"/src/assets/Sunset/Red Playful Illustration Comedy Podcast Cover.png",
+        "item2head":"Lively Conversations & The Comedy Crescendo.",
+        "item2Data":"Immerse yourself in the bold and aromatic notes of our Spiced Infusion Sea Bass. Fresh fillets of sea bass are delicately seasoned with a blend of Indian spices, including cumin, coriander, and turmeric, then seared to perfection. Served on a bed of saffron-infused basmati rice and accompanied by a side of mint-cilantro chutney, this dish is a celebration of coastal flavors with a touch of Indian flair."
+        
+        
+    },
+    {
+        "blog":"4",
+        "heading":"#4 Sipping Serenity: The Art of Sunset at Café Sunset",
+        "para1":"As the sun gracefully descends, casting hues of amber and gold across the sky, Café Sunset emerges as a sanctuary where time slows, and the art of sipping becomes an ode to serenity. Join us on a poetic journey through the evening, where every cup holds the essence of twilight and the tranquil ambiance creates a canvas for moments to unfold.",
+        
+        "item1Img":"/src/assets/Sunset/sala.jpg",
+        "item1head":"Sunset Brews: Crafting Tranquility in a Cup",
+        "item1Data":"In the gentle glow of dusk, our Sunset Brews take center stage, each crafted to embody the essence of the setting sun. From the robust notes of Sunset Espresso to the soothing embrace of Sunset Chai, our beverages are more than drinks – they are elixirs that encapsulate the art of serenity. As you take that first sip, allow the flavors to transport you to a realm where time is a gentle river.",
+
+        "item2Img":"/src/assets/Sunset/infusion.jpg",
+        "item2head":"Sunset Conversations: Where Words Mingle Like Shadows",
+        "item2Data":"At Café Sunset, conversations take on a poetic quality, where words mingle like shadows cast by the setting sun. Whether you're engrossed in a novel, catching up with friends, or lost in your own thoughts, the ambiance encourages a gentle flow of Sunset Conversations. It's a space where connections deepen, and the art of communication becomes as soothing as the fading daylight."
+        
+        
+    },
+    {
+        "blog":"5",
+        "heading":"#5 Bites of Bliss: The Sweet Symphony of Pastries at Café Sunset",
+        "para1":"Indulge your senses in a symphony of sweetness at Café Sunset, where every pastry is a delightful note in the grand composition of flavors. Join us on a journey through our delectable selection, where each bite is a moment of bliss crafted with precision and passion.",
+        
+        "item1Img":"/src/assets/Sunset/pas.jpg",
+        "item1Data":"Experience the burst of freshness with our berry-infused pastries. From luscious strawberry tarts to blueberry-filled delights, each bite is a celebration of nature's vibrant hues and the sweet melody of ripe, juicy berries.",
+
+        "item2Img":"/src/assets/Sunset/infusion.jpg",
+        "item2head":"Pairing with Perfection: Your Ideal Culinary Duet",
+        "item2Data":"At Café Sunset, we understand that the perfect pastry deserves an equally perfect pairing. Whether it's a steaming cup of artisan coffee, a fragrant herbal tea, or a velvety latte, our baristas will guide you to the ideal culinary duet to enhance your pastry experience."
+        
+    },
+    {
+        "blog":"6",
+        "heading":"#6 Flavorful Escapes: Exploring Café Sunset's Seasonal Specialties",
+        "para1":"Unlock a World of Culinary Luxury and Tranquil Moments &  Much More",
+        "heading2":"Newly Added",
+        
+        "item1Img":"/src/assets/Sunset/chai.jpg",
+        "item1Data":"Monsoon Magic: Spices and Raindrops",
+
+        "item1Data":"Sip on the warmth of our Masala Chai Latte, where the aromatic blend of spices dances with the soothing embrace of tea. It's a cup that encapsulates the magic of monsoon rain and the cozy moments spent indoors.",
+
+        "item2Img":"/src/assets/Sunset/blog6.jpg",
+        "item2Data":"Autumn Spice Trail: A Harvest of Aromas",
+        "item2Data":"Savor the sweetness of autumn with our Pumpkin Halwa. The rich, caramelized pumpkin, adorned with nuts and spices, is a dessert that echoes the warmth of festive gatherings."
+    },
+    {
+        "blog":"7",
+        "heading":"#7 Flavorful Escapes: Exploring Café Sunset's Seasonal Specialties",
+        "para1":"Unlock a World of Culinary Luxury and Tranquil Moments &  Much More",
+        "heading2":"Newly Added",
+        
+        "item1Img":"/src/assets/Sunset/chai.jpg",
+        "item1Data":"Monsoon Magic: Spices and Raindrops",
+
+        "item1Data":"Sip on the warmth of our Masala Chai Latte, where the aromatic blend of spices dances with the soothing embrace of tea. It's a cup that encapsulates the magic of monsoon rain and the cozy moments spent indoors.",
+
+        "item2Img":"/src/assets/Sunset/blog6.jpg",
+        "item2Data":"Autumn Spice Trail: A Harvest of Aromas",
+        "item2Data":"Savor the sweetness of autumn with our Pumpkin Halwa. The rich, caramelized pumpkin, adorned with nuts and spices, is a dessert that echoes the warmth of festive gatherings."
+    }
+
+]

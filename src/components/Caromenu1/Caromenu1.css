@@ -1,0 +1,47 @@
+.swiper {
+    height: 12rem;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom:  1rem;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    font-size: .4rem;
+    color: white;
+    text-align: center;
+    width: 10rem;
+    height: 10rem;
+  }
+  
+  .swiper-slide img{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .swiper {
+    height: 85%;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom:  1rem;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    font-size: .5rem;
+    color: white;
+    text-align: center;
+    width: 20rem;
+    height: 15rem;
+  }
+  
+  .swiper-slide img{
+    height: 14rem;
+    width: 16rem;
+    border-radius: 20px;
+    margin-bottom: .5rem;
+  }
+  }

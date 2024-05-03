@@ -1,0 +1,67 @@
+[
+            
+            {
+                "type":"APPETIZERS",
+                "path":"/Menu/menu2",
+                "id":"1",
+                "name":"Spring Rolls Trio",
+                "price":"159/-"
+            },
+            {
+
+                "type":"SOUP",
+                "path":"/Menu/menu2",
+                "id":"1",
+                "name":"Hot and Sour Soup",
+                "price":"139/-"
+            },
+            {
+                "type":"SOUP",
+                "path":"/Menu/menu2",
+                "id":"2",
+                "name":"Wonton Noodle Soup",
+                "price":"129/-"
+            },
+
+       
+
+            {
+                "type":"MAIN COURSE",
+                "path":"/Menu/menu2",
+                "id":"1",
+                "name":"Sichuan Chicken with Broccoli",
+                "price":"139/-"
+            },
+            {
+
+                
+                "type":"MAIN COURSE",
+                "path":"/Menu/menu2",
+                "id":"2",
+                "name":"Cantonese Vegetable Chow Mein",
+                "price":"129/-"
+            },
+            {
+                
+                "type":"Rice and Noodles",
+                "name":"Yangzhou Fried RicE",
+                "price":"140/-",
+                "veg":true  
+            },
+            {
+                
+                "type":"Rice and Noodles",
+                "name":"Dan Dan Noodles",
+                "price":"150/-",
+                "veg":true  
+            },
+            {
+                
+                "type":"Sweet Conclusions",
+                "name":"Mango Sticky Rice Spring Rolls",
+                "price":"140/-",
+                "veg":true  
+            }
+            
+        
+]

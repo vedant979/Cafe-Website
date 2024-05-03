@@ -1,0 +1,27 @@
+[
+    {
+        "type":"APPETIZERS",
+        "left":true
+    },
+    {
+        "type":"SOUP",
+        "left":true
+
+    },
+    {
+        "type":"MAIN COURSE",
+        "left":true
+
+    },
+    
+    {
+        "type":"Rice and Noodles",
+        "left":false
+
+    },
+    {
+        "type":"Sweet Conclusions",
+        "left":false
+
+    }
+  ]        

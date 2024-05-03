@@ -1,0 +1,88 @@
+[ 
+    [    
+        "/Menu/menu1",
+        [   
+            {
+                "type":"Burgers"
+            },
+
+            {
+                "id":"1",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"150/-",
+                "veg":false 
+            },
+            {
+                "id":"2",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"150/-",
+                "veg":false  
+            },
+            {
+                "id":"3",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"210/-",
+                "veg":false 
+            },
+            {
+                "id":"4",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"150/-",
+                "veg":true  
+            },
+            {
+                "id":"5",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"210/-",
+                "veg":true  
+            },
+            {
+                "id":"6",
+                "name":"Tandoori Chicken Tikka Burger",
+                "price":"150/-",
+                "veg":true  
+            }
+        ],
+        [            
+
+            {
+                "type":"Sandwiches"
+            },
+            {
+                
+                "name":"Bombay Masala Grilled Cheese",
+                "price":"150/-",
+                "veg":true  
+            },
+            {
+                
+                "name":"Tandoori Chicken Tikka Burger2",
+                "price":"150/-",
+                "veg":false  
+            },
+            {
+                "name":"Tandoori Chicken Tikka Burger1",
+                "price":"210/-",
+                "veg":true  
+            },
+            {
+                
+                "name":"Tandoori Chicken Tikka Burger3",
+                "price":"150/-",
+                "veg":false  
+            },
+            {
+                
+                "name":"Tandoori Chicken Tikka Burger4",
+                "price":"210/-",
+                "veg":false  
+            },
+            {
+                
+                "name":"Tandoori Chicken Tikka Burger5",
+                "price":"150/-",
+                "veg":true  
+            }
+        ]
+    ]
+]

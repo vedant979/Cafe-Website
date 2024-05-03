@@ -1,0 +1,26 @@
+.slider-xyz{
+    height: 50vh;
+    background-color: black;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slider-xyz .window{
+    width: 95%;
+    height: 95%;
+    /* border: 1px solid white; */
+    /* overflow: hidden; */
+}
+.window .cards-wrapper{
+    width: 300%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+}
+.cards-wrapper .cards123{
+    height: 90%;
+    width: 90%;
+    border: 1px solid rgb(255, 0, 0);
+}

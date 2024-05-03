@@ -1,0 +1,27 @@
+[
+    {
+        "drink":"Matcha Latte",
+        "price":"Rs.120",
+        "img":""    
+    },
+    {
+        "drink":"Cappuccino",
+        "price":"Rs.120",
+        "img":"" 
+    },
+    {
+        "drink":"Caramel Tea",
+        "price":"Rs.120",
+        "img":""  
+    },
+    {
+        "drink":"Green Tea",
+        "price":"Rs.120",
+        "img":""  
+    },
+    {
+        "drink":"Herbal Infusions",
+        "price":"Rs.120",
+        "img":""  
+    }
+]

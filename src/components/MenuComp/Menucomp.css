@@ -1,0 +1,183 @@
+.detail {
+    border-bottom: 2px solid #ccc; /* Add border bottom to all details */
+  }
+  
+  .detail:last-child {
+    border-bottom: none; /* Remove border bottom from the last detail */
+  }
+  .r2 {
+    display: block;
+  }
+  .head {
+    margin-top: 1rem;
+    position: relative;
+  }
+  .head-image {
+    width: 100%;
+    height: 15rem;
+  }
+  .head-image img {
+    height: 100%;
+    width: 100%;
+  }
+  .head-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: 3;
+    color: white;
+    top: 23%;
+    width: 30%;
+    font-size: 0.8rem;
+    left: 2%;
+  }
+  .list {
+    display: flex;
+    flex-direction: column;
+    padding: 0 2rem;
+  }
+  .item {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    height: 8rem;
+  }
+  .dish-name {
+    color: white;
+  }
+  .dish-price {
+    color: white;
+  }
+  .r2 {
+    width: 7rem;
+    height: 7rem;
+    position: relative;
+  }
+  .dish-image {
+    width: 7rem;
+    height: 7rem;
+  }
+  .dish-image img {
+    width: 100%;
+    height: 100%;
+  }
+  .like {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: 1rem;
+    width: 1rem;
+  }
+  .like img {
+    height: 100%;
+    width: 100%;
+  }
+  .cart {
+    background-color: white;
+    width: 4rem;
+    height: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 0.4rem;
+    position: absolute;
+    bottom: -0.5rem;
+    left: 20%;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.411);
+  }
+  .c1 {
+    font-size: 0.8rem;
+    margin-bottom: 0.2rem;
+  }
+  .c2 {
+    font-size: 0.8rem;
+    font-weight: lighter;
+  }
+  .c3 {
+    font-size: 0.8rem;
+  }
+  @media screen and (min-width: 768px) {
+    .detail:last-child {
+      border-bottom: 2px solid #ccc; /* Remove border bottom from the last detail */
+    }
+    .r2 {
+      display: flex;
+      justify-content: center;
+    }
+    .head {
+      margin-top: 3rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+    .head-image {
+      width: 17rem;
+      height: 17rem;
+      border-radius: 100%;
+    }
+    .head-image img {
+      border-radius: 100%;
+    }
+    .head-title {
+      display: flex;
+      position: relative;
+      text-align: center;
+      width: 70%;
+      height: 3rem;
+      background-color: #d16e43;
+      font-size: 0.7rem;
+      justify-content: center;
+      align-items: center;
+      left: 0;
+      border-radius: 25px;
+    }
+    .list {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+    .item {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 0rem;
+      height: 6rem;
+    }
+    .dish-name {
+      font-size: 0.8rem;
+      color: white;
+    }
+    .dish-price {
+      color: white;
+    }
+    .r2 {
+      width: 7rem;
+      height: 4rem;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .dish-image {
+      display: none;
+    }
+    .like {
+      display: none;
+    }
+    .cart {
+      position: relative;
+      width: 2.5rem;
+      height: 2.5rem;
+      background-color: #c9f7ca;
+    }
+    .c1 {
+      display: none;
+    }
+    .c2 {
+      display: none;
+    }
+    .c3 {
+      font-size: 0.8rem;
+    }
+  }

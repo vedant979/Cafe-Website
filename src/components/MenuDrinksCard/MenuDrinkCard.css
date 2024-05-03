@@ -1,0 +1,72 @@
+.drinkCards{
+    /* border: 1px solid white; */
+    width: 90%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(60, 45, 37, 1);
+    border-width: 90%;
+}
+.drinkCards .left-col{
+    height: 100%;
+    width: 70%;
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.left-col :nth-child(1){
+    font-size: 2vw;
+}
+.left-col :nth-child(2){
+    font-size: 2vw;
+}
+.left-col :nth-child(2){
+    color: rgba(255, 255, 255, 1);
+}
+.drinkCards .right-col{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.right-col :nth-child(1){
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(201, 247, 202, 1);
+    justify-content: center;
+}
+.right-col :nth-child(1) p{
+    height: 100%;
+    width: 100%;
+    font-size: 3vw;
+}
+.right-col :nth-child(2){
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 700;
+}
+.price-tag{
+    font-size: 2.5vw;
+}
+/* --------------------MOBILE-VIEW------------------------- */
+@media(min-width:250px) and (max-width:426px){
+    .left-col :nth-child(1){
+        font-size: 3vw;
+    }
+    .left-col :nth-child(2){
+        font-size: 2.5vw ;
+    }
+
+}

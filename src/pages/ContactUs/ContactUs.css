@@ -1,0 +1,116 @@
+
+.ContactContainer {
+    background-color: black;
+    padding: 50px 0; /* Added padding for better spacing */
+    overflow: hidden;
+}
+.aboutHeading1 {
+    color: white;
+    text-align: center;
+}
+.ContactContainer2 {
+    background-color: black;
+    padding: 20px 0; /* Added padding for better spacing */
+    overflow: hidden;
+}
+/* Custom style for circular images */
+.img-fluid.rounded-circless {
+    width: 50%; /* Ensure the images take the full width of their container */
+    max-width: 250px; /* Set a maximum width for better responsiveness */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%;
+    margin-bottom: 20px; /* Added margin for better spacing */
+    overflow: hidden;
+    margin-left: auto; /* Center the images horizontally */
+    margin-right: auto;
+    display: block; /* Ensure images are displayed as blocks */
+    filter: brightness(80%); /* Adjust brightness to match the design */
+}
+/* second section */
+.containeConact2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+.cbtn{
+    background-color: gray !important;
+}
+.btnCont{
+    width: 50%;
+    filter: brightness(80%);
+}
+.btnCont1 {
+    width: 50%; /* Reduce width by 50% */
+    margin-left: 50%; /* Push the input fields to the right by 50% */
+    transform: translateX(-50%); /* Center the input fields */
+    filter: brightness(80%);
+}
+.textArea{
+    width: 88%;
+    filter: brightness(80%);
+}
+/* Media query for smaller screens */
+@media (max-width: 426px) {
+    .img-fluid.rounded-circless {
+        max-width: 100px; /* Adjust maximum width for smaller screens */
+        margin-left: 120px;
+    }
+    .contH1 {
+       text-align: center;
+       margin-right: 60px;
+    }
+    .contH2{
+        text-align: center;
+        margin-right: 60px;
+    }
+    .contH3{
+        text-align: center;
+        margin-right: 60px;
+    }
+    .paraCp3{
+        text-align: center;
+        margin-right: 50px;
+    }
+    .paraCp2{
+        text-align: center;
+        margin-right: 60px;
+    }
+    .containeConact2{
+        height: 110vh;
+    }
+    .btnCont{
+        width: 100%;
+    }
+    .btnCont1{
+        width: 100%;
+    }
+    .textArea{
+        width: 100%;
+    }
+}
+/* Media query for medium screens (tablets) */
+@media (max-width: 992px) {
+    .img-fluid.rounded-circless {
+        max-width: 250px; /* Adjust maximum width for medium screens */
+    }
+    .contH1 {
+        margin-left: -50px;
+    }
+    .contH2{
+        margin-left: -65px;
+    }
+    .contH3{
+        margin-left: -70px;
+    }
+    .paraCp3{
+        margin-left: -70px;
+    }
+    .paraCp2{
+        margin-left: -80px;
+    }
+}

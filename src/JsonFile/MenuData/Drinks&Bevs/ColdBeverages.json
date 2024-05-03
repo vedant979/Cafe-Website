@@ -1,0 +1,27 @@
+[
+    {
+        "drink":"Iced Coffee",
+        "price":"Rs.120",
+        "img":""    
+    },
+    {
+        "drink":"Iced Latte",
+        "price":"Rs.120",
+        "img":"" 
+    },
+    {
+        "drink":"Frappuccino",
+        "price":"Rs.120",
+        "img":""  
+    },
+    {
+        "drink":"Affogato",
+        "price":"Rs.120",
+        "img":""  
+    },
+    {
+        "drink":"Ice Latte",
+        "price":"Rs.120",
+        "img":""  
+    }
+]

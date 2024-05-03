@@ -1,0 +1,58 @@
+[
+    {
+        "id":"1",
+        "img":"/src/assets/Sunset/burger.jpg",
+        "name":"BURGER & SANDWICHES",
+        "to":"/Menu/menu1"
+    },    
+    {
+        "id":"2",
+        "img":"/src/assets/Sunset/chinese.jpg",
+        "name":"CHINESE CUSINE",
+        "to":"/Menu/menu2"
+    },
+    {
+        "id":"3",
+        "img":"/src/assets/Sunset/Starters.jpg",
+        "name":"STARTERS",
+        "to":"/Menu/menu3"
+    },
+    {
+        "id":"4",
+        "img":"/src/assets/Sunset/sides.jpg",
+        "name":"SIDES",
+        "to":"/Menu/menu4"
+    },
+    {
+        "id":"5",
+        "img":"/src/assets/Sunset/salads.jpg",
+        "name":"SALADS",
+        "to":"/Menu/menu5"
+    },
+    {
+        "id":"6",
+        "img":"/src/assets/Sunset/deserts.jpg",
+        "name":"DESSERTS / ICE-CREAM",
+        "to":"/Menu/menu6"
+    },
+
+    {
+        "id":"7",
+        "img":"/src/assets/Sunset/main.jpg",
+        "name":"MAIN COURSE",
+        "to":"/Menu/menu7"
+    },
+    
+    {
+        "id":"8",
+        "img":"/src/assets/Sunset/combo.png",
+        "name":"VALUE COMBO",
+        "to":"/Menu/menu8"
+    },
+    {
+        "id":"9",
+        "img":"/src/assets/Sunset/beverages.jpg",
+        "name":"BEVERAGES",
+        "to":"/Menu/menu9"
+    }
+]

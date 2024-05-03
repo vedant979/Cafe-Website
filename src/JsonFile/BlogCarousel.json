@@ -1,0 +1,46 @@
+
+[
+    {
+      "path":"/Blogasd",
+      "id":1,
+      "image": "/src/assets/BlogC-Image/blog1.jpg",
+      "para":"Sip, Savor, Socialize: The Three S's of Café Sunset.",
+      "btn":"Found out More.."
+   },
+    {
+      "path":"/Blog",
+      "id":2,
+      "image": "/src/assets/BlogC-Image/blog2.jpg",
+      "para":"Café Sunset Chronicles: A Journey Through Flavors and Moments.",
+      "btn":"Found out More.."
+    },
+    {
+      "path":"/Blo",
+      "id":3,
+      "image": "/src/assets/BlogC-Image/blog3.jpg",
+      "para":"Sunset Sessions: Live Music, Lively Conversations at Café Sunset.",
+      "btn":"Found out More.."
+    },
+    {
+      "path":"/Bloasg",
+      "id":4,
+      "image": "/src/assets/BlogC-Image/blog4.jpg",
+      "para":"Sipping Serenity: The Art of Sunset at Café Sunset.",
+      "btn":"Found out More.."
+    },
+    {
+      "path":"/Blasog",
+      "id":5,
+      "image": "/src/assets/BlogC-Image/blog5.jpg",
+      "para":"Bites of Bliss: The Sweet Symphony of Pastries at Café Sunset.",
+      "btn":"Found out More.."
+    },
+    {
+      "path":"/asBlog",
+      "id":6,
+      "image": "/src/assets/BlogC-Image/blog6.jpg",
+      "para":"Flavorful Escapes: Exploring Café Sunset's Seasonal Specialties.",
+      "btn":"Found out More.."
+    }
+]
+
